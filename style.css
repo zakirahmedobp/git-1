@@ -12,3 +12,14 @@
   padding:30px;
   display:block;
 }
+
+.yasin{
+  width: 320px;
+  height: 240px ;
+  margin:auto;
+  padding:10px;
+  left: 50px;
+  display:inline-block;
+  position:relative;
+  
+}
